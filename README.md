@@ -7,4 +7,4 @@ Bistacchi A., Mittempergher S., Martinelli M., Storti F., 2020. On a new robust 
 
 Please cite this paper if you use the code!
 
-To run the code, download the repository, and run DomStudioFracStat1D.mlapp in Matlab®.
+To run the code, download the repository, and run `DomStudioFracStat1D.mlapp` in Matlab®.
