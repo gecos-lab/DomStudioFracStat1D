@@ -6,6 +6,6 @@ Bistacchi A., Mittempergher S., Martinelli M., Storti F., 2020. On a new robust 
 
 Please cite this paper if you use the code!
 
-To run the app, download the code in `matlab_code` and run the `DomStudioFracStat1D.mlapp` in Matlab®.
+To run the app, download the code in `matlab_code` and run `DomStudioFracStat1D.mlapp` in Matlab®.
 
 [![DOI](https://zenodo.org/badge/306701725.svg)](https://zenodo.org/badge/latestdoi/306701725)
