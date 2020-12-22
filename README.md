@@ -7,7 +7,7 @@ Bistacchi A., Mittempergher S., Martinelli M., Storti F., 2020. On a new robust 
 Please cite this paper if you use the code!
 
 To run the app you have two options:
-- download the code in `matlab_code` and run `DomStudioFracStat1D.mlapp` in Matlab®
+- download the code in `matlab_code` and run `DomStudioFracStat1D.mlapp` in Matlab® (in this case you need the "Statistics and Machine Learning" and "Signal Processing" toolboxes).
 - download and install the binary for your platform from `binaries` (it will ask to install Matlab® Runtime).
 
 [![DOI](https://zenodo.org/badge/306701725.svg)](https://zenodo.org/badge/latestdoi/306701725)
